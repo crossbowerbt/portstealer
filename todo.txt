@@ -1,0 +1,4 @@
+Modify the README file
+Add the possibility to modify/analyze collected packets via an external command
+Real tests, in a real environment...
+Maybe add "silencer arp packet", and "broadcast sniff arp packet" features
